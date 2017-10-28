@@ -3,7 +3,8 @@ GNU Affero General Public License v3.0 License
 
 This copyright have additional condition of AGPL Licence Section <5. Conveying Modified Source Versions> - b)
 1. 본 레포지토리의 소스를 수정 후 최대 7일 이내에 수정본을 공개해야 합니다.
-<br><br>
+
+===
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
